@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * _isalpha - to check if lowercase or uppercase and return a value
- * @c: an input character
- * Description: function returns 1 if its a letter,
- * lowercase or uppercase
- * Returns: 0 otherwise
+ * _isalpha - Check Holberton
+ * @c: An input character
+ * Description: function returns 1 if the character is a
+ * letter, lowercase or uppercase.
+ * Return: 1 or 0 in otherwise.
  */
 int _isalpha(int c)
 {

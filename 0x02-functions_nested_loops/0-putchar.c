@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - this is the entry pint and the functio of the whole program 
+ * main - this is the entry pint and the functio of the whole program
  * _putchar - to print the alphabet _putchar
  * Return: ALways 0
  */
